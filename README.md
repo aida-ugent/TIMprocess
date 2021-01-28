@@ -28,11 +28,7 @@ Package dependencies:
 
 # Suggests
 
-The current implementation computes 0-dimensional persistent homology through the Python library ripser.
-This implementation does not allow one to match diagram points to birth/death pixels.
-We therefore require all pixel values to be unique, as illustrated on https://ripser.scikit-tda.org/en/latest/notebooks/Lower%20Star%20Image%20Filtrations.html.
-We observed that this may rarely lead to wrong matchings, due to small numerical errors.
-To overcome this, we recommend looking into different implementations that may allow one to track birth/death pixels, e.g., https://pypi.org/project/dionysus/.
+The current implementation computes 0-dimensional persistent homology through the Python library ripser. This implementation does not allow one to match diagram points to birth/death pixels. We therefore require all pixel values to be unique, as illustrated on https://ripser.scikit-tda.org/en/latest/notebooks/Lower%20Star%20Image%20Filtrations.html. We observed that this may rarely lead to wrong matchings, due to small numerical errors. To overcome this, we recommend looking into different implementations that may allow one to track birth/death pixels, e.g., https://pypi.org/project/dionysus/.
 
 
 # Contact
