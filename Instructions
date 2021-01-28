@@ -1,0 +1,19 @@
+The file "TIP_tutorial.ipynb" illustrates how to conduct TIM + TIP in Python through a jupyter notebook.
+It also shows how our method is used to improve the six different models discussed in the main paper.
+Only one example skin lesion image, contained in the "Image" folder, is used in this concise tutorial. 
+More images can be obtained from https://challenge2018.isic-archive.com/task1/
+
+The file "TDAimgprocess.py" contains code for our built functions for TIM + TIP, and is imported in the notebook.
+
+The necessary packages are imported at the start of the "TIP_tutorial.ipynb" and "TDAimgprocess.py" files.
+For conciseness, we list the required (nonstandard) Python libraries below.
+
+- numpy
+- matplotlib
+- Pillow
+- scikit-image
+- OpenCV
+- SciPy
+- ripser
+
+For more info: contact "Robin.Vandaele@UGent.be"

@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/robin/.cache/gnome-builder/install/topimgprocess/host
+app-id=
+postbuild=
+prebuild=
+default=true
