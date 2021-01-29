@@ -1,9 +1,8 @@
 # TIMprocess
 
-The file "TIP_tutorial.ipynb" illustrates how to conduct TIM + TIP in Python through a jupyter notebook.
-It also shows how our method is used to improve the six different models discussed in the main paper (see LICENSE.md).
-Only one example skin lesion image, contained in the "Image" folder, is used in this concise tutorial. 
-More images can be obtained from https://challenge2018.isic-archive.com/task1/
+Topological Image Modification (TIM) and Topological Image Processing (TIP). 
+
+Main paper this repository is based on: https://www.nature.com/articles/s41598-020-77933-y
 
 # Info
 
@@ -11,6 +10,9 @@ To start:
 - Clone/download the repository.
 - Install the dependencies below.
 - Open the notebook "TIP_tutorial.ipynb".
+
+Or:
+- You can preview the notebook in github.
 
 
 # Dependencies
